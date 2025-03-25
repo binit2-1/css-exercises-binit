@@ -1,0 +1,23 @@
+.odd1{
+    color: black;
+    background-color: pink;
+}
+.odd2{ 
+    color: black;
+    background-color: pink;
+    font-size: 24px;
+}
+.odd3{
+    color: black;
+    background-color: pink;
+}
+#even1{
+    color:blue;
+    font-size: 36px;
+}
+#even2{
+    color: black;
+    background-color:lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}

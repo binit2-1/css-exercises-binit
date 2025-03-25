@@ -1,0 +1,11 @@
+.bg1{
+    background-color: black;
+    color: white;
+}
+.bg2{
+    background-color: yellow;
+    color: black;
+}
+.bg1,.bg2{
+    font-size: 36px;
+}
